@@ -8,7 +8,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 
 ## Live Preview
 
-<p><a href="https://github.com/nahida-uap/nahida.github.io/" target="_blank"> <img src="https://github.com/nahida-uap/nahida.github.io/blob/master/preview1.png"></a></p>
+<p><a href="https://nahida-uap.github.io/nahida.github.io/" target="_blank"> <img src="https://github.com/nahida-uap/nahida.github.io/blob/main/preview1.png"></a></p>
 
 ## Technologies Used
 
